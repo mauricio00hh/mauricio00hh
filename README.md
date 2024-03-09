@@ -1,6 +1,6 @@
 ### Opa, Eu sou o Maurício Mendes👋
 
-- 📚 Estou cursando ADS no IFSMG-MURIAÉ-MG
+- 📚 Estou cursando GTI no IFSMG-MURIAÉ-MG
 - 💻 Estudando: Banco de Dados, Python, HTML,CSS E Javascript...
 - 🧐 Gosto muito de desenvolvimento WEB
 
