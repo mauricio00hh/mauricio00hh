@@ -2,7 +2,7 @@
 
 - 📚 Estou cursando GTI no IFSMG-MURIAÉ-MG
 - 💻 Estudando: Banco de Dados, Python, HTML,CSS E Javascript...
-- 🧐 Gosto muito de desenvolvimento WEB
+  
 
 <div style="display: inline_block"><br>
 <a href="https://github.com/mauricio00hh>
